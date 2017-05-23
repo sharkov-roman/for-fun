@@ -1,0 +1,10 @@
+{
+  "name": "Roman",       
+  "surname": 'Sharkov',
+  "age": 26,           
+  "address": {
+       "streetAddress": "Molodejnaya., 7, кв.71",
+       "city": "Minsk",
+       "postalCode": 101101
+   }
+}
